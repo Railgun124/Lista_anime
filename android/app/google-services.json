@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282703554893",
+    "project_id": "dam-u3-practica2-anime",
+    "storage_bucket": "dam-u3-practica2-anime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282703554893:android:7e771c566d4211ad842f04",
+        "android_client_info": {
+          "package_name": "mx.ittepic.edu.dam_u3_tarea2_p1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfzZulJyOxeHrEprmc2q7959FZoR5OYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
